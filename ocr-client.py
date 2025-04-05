@@ -4,7 +4,7 @@ from time import time
 
 # 서버 및 인증 설정
 PORT_N = 5050
-SERVER_IP = "61.108.166.15"
+SERVER_IP = ""
 USER_ID = "team01"
 USER_PW = "1234"
 TEST_IMG = "3.jpg"
